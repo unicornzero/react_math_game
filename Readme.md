@@ -1,1 +1,1 @@
-Placeholder
+Code from tutorials in the Pluralsight "React.js: Getting Started" course. 
